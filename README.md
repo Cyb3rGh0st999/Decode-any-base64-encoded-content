@@ -32,3 +32,14 @@ This Python script provides a simple GUI to read `.eml` and `.txt` files. It can
    ```bash
    git clone https://github.com/your-username/eml-parser
    cd eml-parser
+   ```
+2. Open your terminal or command prompt.
+
+3. Navigate to the directory where the script is saved.
+
+4. Run the script with the following command:
+
+   ```python
+   python eml.py
+   ```
+   
